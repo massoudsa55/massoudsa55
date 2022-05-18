@@ -1,6 +1,13 @@
-### Hi there 👋
+### Hi there 👋 My name is Messaoud Bnekouider
 
-<!--
+I am a Desktop Developper I Software engineer
+
+Young graduate in networks and distributed systems. 
+Desktop and mobile developer with hands-on experience designing, developing and implementing applications 
+and solutions using a range of technologies and programming languages, among this technology 
+I have used c#, java, WinForms, DevExpress , Bunifu, Guna2, swing, SQL(MSSQL, MYSQL, PostgreSQL, SQLite), NoSQL(MongoDB and Firebase).
+
+
 **massoudsa55/massoudsa55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
