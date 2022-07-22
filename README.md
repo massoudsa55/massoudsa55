@@ -4,8 +4,10 @@ I am a Desktop Developer I Software engineer
 
 Young graduate in networks and distributed systems. Desktop and mobile developer 
 with hands-on experience designing, developing and implementing applications 
-and solutions using a range of technologies and programming languages,  among this technology 
+and solutions using a range of technologies and programming languages,  
+among this technology 
 I have used c#, java, WinForms, DevExpress , Bunifu, Guna2, swing, SQL(MSSQL, MYSQL, PostgreSQL, SQLite), NoSQL(MongoDB and Firebase).
+
 
 
 
