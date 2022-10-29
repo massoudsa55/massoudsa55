@@ -28,7 +28,7 @@ I am young graduate in networks and distributed systems, and i am a passionate m
 <a href="https://linkedin.com/in/messaoud-benkouider-0b7a3515a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="messaoud-benkouider-0b7a3515a" height="30" width="30" /></a>
 <a href="https://fb.com/massoud.benkouider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="massoud.benkouider" height="30" width="30" /></a>
 <a href="https://instagram.com/messaoud_benkouider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="messaoud_benkouider" height="30" width="30" /></a>
-<a href="https://discord.gg/Messaoud#5629" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Messaoud#5629" height="30" width="30" /></a>
+<a href="https://discord.com/users/788356789011349545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Messaoud#5629" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
