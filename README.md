@@ -1,4 +1,4 @@
-<h1 align="left">Hi there 👋, My name is Benkouider Messaoud</h1>
+<h1 align="left">Hi there 👋, I’m Benkouider Messaoud</h1>
 
 I am young graduate in networks and distributed systems, and i am a passionate mobile developer (flutter, java native) and desktop developer (c# devexpress) from Algeria
 
