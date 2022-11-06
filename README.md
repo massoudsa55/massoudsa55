@@ -8,9 +8,9 @@ I am young graduate in networks and distributed systems, and i am a passionate m
 <p align="left"> <a href="https://twitter.com/massoud_nassim" target="blank"><img src="https://img.shields.io/twitter/follow/massoud_nassim?logo=twitter&style=for-the-badge" alt="massoud_nassim" /></a> </p>
 
 
-- 🔭 I’m currently working on [Last Project](https://github.com/massoudsa55/Smart-Farm-Flutter-App)
+- 🔭 I’m currently working on **Flutter apps**
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Back-end**
 
 - 👨‍💻 All of my projects are available at [My portfolio](https://massoudsa55.github.io/)
 
