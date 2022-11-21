@@ -1,6 +1,6 @@
 <h1 align="left">Hi there 👋, I’m Benkouider Messaoud</h1>
 
-I am young graduate in networks and distributed systems, and i am a passionate mobile developer (flutter, java native) and desktop developer (c# devexpress) from Algeria
+I am young graduate in networks and distributed systems, and i am a passionate mobile developer via (flutter, java native) and desktop developer via (c# devexpress) from Algeria
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=massoudsa55&label=Profile%20views&color=0e75b6&style=flat" alt="massoudsa55" /> </p>
 
