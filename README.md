@@ -20,6 +20,10 @@ I am young graduate in networks and distributed systems, and i am a passionate m
 
 - 📄 Know about my experiences [Download my resume](https://drive.google.com/file/d/1osX9FJCptqxTikRV1JzkK8hqUqGeP100/view?usp=sharing)
 
+![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+
+![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
+
 <h1 align="center">                     </h1>
 
 <h3 align="left">Connect with me:</h3>
@@ -50,5 +54,3 @@ I am young graduate in networks and distributed systems, and i am a passionate m
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=massoudsa55&show_icons=true&locale=en" alt="massoudsa55" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=massoudsa55&" alt="massoudsa55" /></p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=massoudasa55&theme=dark&ring=1BDD22)](https://git.io/streak-stats)
