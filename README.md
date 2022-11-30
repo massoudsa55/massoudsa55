@@ -20,6 +20,13 @@ I am young graduate in networks and distributed systems, and i am a passionate m
 
 - 📄 Know about my experiences [Download my resume](https://drive.google.com/file/d/1osX9FJCptqxTikRV1JzkK8hqUqGeP100/view?usp=sharing)
 
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://massoudsa55.github.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/messaoud-benkouider-0b7a3515a)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/massoud_nassim)
+
+
 <h1 align="center">                     </h1>
 
 <h3 align="left">Connect with me:</h3>
