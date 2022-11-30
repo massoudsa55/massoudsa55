@@ -5,7 +5,7 @@ I am young graduate in networks and distributed systems, and i am a passionate m
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=massoudsa55&label=Profile%20views&color=0e75b6&style=flat" alt="massoudsa55" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/massoud_nassim" target="blank"><img src="https://img.shields.io/twitter/follow/massoud_nassim?logo=twitter&style=for-the-badge" alt="massoud_nassim" /></a> </p>
+![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 
 
 - 🔭 I’m currently working on **Flutter apps**
@@ -19,10 +19,6 @@ I am young graduate in networks and distributed systems, and i am a passionate m
 - 📫 How to reach me [Instagram](https://instagram.com/messaoud_benkouider)
 
 - 📄 Know about my experiences [Download my resume](https://drive.google.com/file/d/1osX9FJCptqxTikRV1JzkK8hqUqGeP100/view?usp=sharing)
-
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
-
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
 <h1 align="center">                     </h1>
 
