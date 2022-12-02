@@ -4,9 +4,7 @@ I am young graduate in networks and distributed systems, and i am a passionate m
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=massoudsa55&label=Profile%20views&color=0e75b6&style=flat" alt="massoudsa55" /> </p>
 
-
 ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
-
 
 - 🔭 I’m currently working on **Flutter apps**
 
@@ -20,12 +18,10 @@ I am young graduate in networks and distributed systems, and i am a passionate m
 
 - 📄 Know about my experiences [Download my resume](https://drive.google.com/file/d/1osX9FJCptqxTikRV1JzkK8hqUqGeP100/view?usp=sharing)
 
-
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://massoudsa55.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/messaoud-benkouider-0b7a3515a)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/massoud_nassim)
-
 
 <h1 align="center">                     </h1>
 
